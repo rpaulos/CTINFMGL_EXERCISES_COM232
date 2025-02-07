@@ -14,5 +14,4 @@ This repository contains the materials for the final project. It includes the us
 
 - **Exercise5_Records.csv**  
   This CSV file contains the records for the MySQL database used in Exercise 5. It provides the necessary data to interact with the project during this exercise.
-
 ---
